@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/silenttrader99/travel-checklist.git/static/css/main.708779c1.css",
+    "main.js": "/silenttrader99/travel-checklist.git/static/js/main.c1bfd399.js",
+    "index.html": "/silenttrader99/travel-checklist.git/index.html",
+    "main.708779c1.css.map": "/silenttrader99/travel-checklist.git/static/css/main.708779c1.css.map",
+    "main.c1bfd399.js.map": "/silenttrader99/travel-checklist.git/static/js/main.c1bfd399.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.708779c1.css",
+    "static/js/main.c1bfd399.js"
+  ]
+}
