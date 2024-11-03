@@ -1,9 +1,6 @@
 # So-Far-Away 🌍✈️
 Welcome to **So-Far-Away**—the travel list app you never knew you needed but will definitely appreciate when you’re packing for your next big adventure. Forgetting your toothbrush? Not this time! From weekend getaways to “find yourself” journeys, this app’s got your packing list covered.
 
-## Project Description
-So-Far-Away is a simple React app to create and manage a travel checklist. Add items, mark them as packed, or remove them with a click. It’s the ultimate packing assistant, minus the luggage.
-
 ## Why “So-Far-Away”?
 Because whether you’re going so far away or just around the corner, there’s always something to pack (and something you’ll probably forget if it’s not on the list).
 
